@@ -23,9 +23,9 @@ addIngredient("gunpowder_:3",{
     color:"#676666",
     keywords:"gunpowder,bomb,explosive,illegal",
 });
-addIngredient("uhm..._milk",{
+addIngredient("cum",{
     type:"oil",
-    color:"#EEEEEE",
+    color:"#ededed",
     keywords:"cum,milk,illegal,ejaculate,liquid",
 });
 addIngredient("tooth",{
